@@ -19,6 +19,8 @@
 |-	|minus|
 |*	|asterisk, times|
 |/	|division, slash|
+|>| greater than|
+|<| less than|
 |-	|hyphendash (normal, n-dash, m, dash; also for spaces)|
 |_	|underscore|
 |~	|tilde|
